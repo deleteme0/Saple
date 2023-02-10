@@ -1,0 +1,23 @@
+
+
+Version:	3.50
+CmdLine:	G:\Calvin\code\old\Sapp\Saple\theapp.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	G:\Calvin\code\old\Sapp\Saple\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\ffmpeg\bin;C:\ffmpeg\bin;C:\Program Files\Eclipse Adoptium\jdk-17.0.2.8-hotspot\bin;C:\Program Files\Python310\Scripts\;C:\Program Files\Python310\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Microsoft VS Code\bin;F:\Installed games\ML\runtime\win64;F:\Installed games\ML\bin;F:\Installed games\ML\polyspace\bin;C:\Users\Admin\AppData\Local\Microsoft\WindowsApps;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.1\bin;C:\Users\Admin\AppData\Roaming\npm;C:\Users\Admin\AppData\Local\GitHubDesktop\bin;";C:\Program Files\nodejs\";C:\Program Files\Eclipse Adoptium\jdk-17.0.2.8-hotspot\bin
+JRE paths:	;C:\Program Files\Common Files\Oracle\Java\javapath;C:\ffmpeg\bin;C:\ffmpeg\bin;C:\Program Files\Eclipse Adoptium\jdk-17.0.2.8-hotspot\bin;C:\Program Files\Python310\Scripts\;C:\Program Files\Python310\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Microsoft VS Code\bin;F:\Installed games\ML\runtime\win64;F:\Installed games\ML\bin;F:\Installed games\ML\polyspace\bin;C:\Users\Admin\AppData\Local\Microsoft\WindowsApps;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.1\bin;C:\Users\Admin\AppData\Roaming\npm;C:\Users\Admin\AppData\Local\GitHubDesktop\bin;";C:\Program Files\nodejs\";C:\Program Files\Eclipse Adoptium\jdk-17.0.2.8-hotspot\bin
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\ffmpeg\bin\javaw.exe (not found)
+Check launcher:	C:\ffmpeg\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Eclipse Adoptium\jdk-17.0.2.8-hotspot\bin\javaw.exe (OK)
+Version string: 1.017.000_002 / 64-Bit (OK)
+Launcher:	C:\Program Files\Eclipse Adoptium\jdk-17.0.2.8-hotspot\bin\javaw.exe
+Launcher args:	-jar "G:\Calvin\code\old\Sapp\Saple\theapp.exe"
+Args length:	47/32768 chars
+Exit code:	0
